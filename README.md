@@ -1,5 +1,5 @@
 # Video-Player
-Allowthe user to view a collection of at least 4 movies.Has the following features:</br>
+Allow the user to view a collection of at least 4 movies.Has the following features:</br>
   1.playlist navigation possible,</br>
   2.adding new films by drag and drop</br>
   3.change the order of the films in the playlist<br>
