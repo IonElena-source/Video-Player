@@ -1,0 +1,167 @@
+
+body{
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+.title
+{
+    text-align: center;
+    border:1vh solid rgb(74, 172, 241);
+    background-color:rgb(129, 162, 233); ;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.playlist-tr
+{
+    width:260px;
+}
+
+.td-video-done
+{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: 270px;
+    display: inline-block;
+  
+    margin-bottom: 5px;
+}
+.td-video
+{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: 270px;
+    display: inline-block;
+    border: 2px solid rgba(199, 220, 235);
+    margin-bottom: 5px;
+}
+
+thead, tbody { display: block; }
+
+tbody {
+
+    height: 76vh;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+
+}
+.td-nume-video
+{
+    width: 240px;
+    height: 20px;
+  
+    
+    margin-bottom: 10px;
+}
+.video
+{
+
+    width: 246px;
+    height: 240px;
+    object-fit: fill;
+    padding-bottom: 5px;
+
+     
+}
+#table-playlist
+{
+    margin-top:20px;
+    width: 60px;
+    margin-left: 20px;
+    height: 72vh;
+    border:5px solid rgba(199, 220, 235,0.8)
+}
+.playlist-div
+{ 
+    width: 50vw;
+    height: 92vh;
+    top: 10px;
+    display: block;
+    float: left;
+   
+}
+.button-delete
+{
+    margin-top: 40px;
+    margin-left: 5px;
+}
+.playlist-title
+{  
+    position: relative;
+    font-size: 20px;
+    left:70px
+   
+ 
+    
+}
+.jumate-dreapta
+{
+    float: left;
+}
+#canvas-video
+{
+    margin-top: 20px;
+    width: 800px;
+    height: 600px;
+}
+#btn-play
+{
+    margin-top: 40px;
+    margin-left: 5px;
+}
+#redareAutomata
+{
+    width: 180px;
+}
+.playlist-title-tr
+{
+    border-bottom: 5px solid rgba(199, 220, 235);
+    padding-bottom: 5px;
+    
+}
+#btn-contrast
+{
+    position: relative;
+    margin-top: 20px;
+    margin-right: 70px;
+    left: 10%;
+}
+#number-contrast
+{
+width: 50px;
+}
+
+#btn-group1
+{
+    margin-left: 15em;
+   
+}
+#btn-group2
+{
+    margin-top: 20px;
+    
+    width: 90px;
+    height: 70px;
+    font-size: 20px;
+}
+#statusRedareAutomata
+{
+    
+    color: white;
+    font-size: 20px;
+
+}
+#statusPreviewCadru
+{ color: white;
+    font-size: 20px;
+
+}
+.rounded-pill
+{
+    padding-right: 50px;
+    margin-right: 100px;
+}
