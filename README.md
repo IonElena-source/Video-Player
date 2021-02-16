@@ -1,4 +1,4 @@
-# Video-Playe
+# Video-Player
 Allows the user to view a collection of at least 4 movies.Has the following features:
   1.playlist navigation possible,
   2.adding new films by drag and drop 
